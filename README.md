@@ -34,4 +34,4 @@ Use the same color in ALL 4 files to keep it consistent.
 Color picker: https://coolors.co
 
 ## Need help?
-Ask Claude: "Help me fill in the about.html for my [topic] capstone project"
+Use the Discord server and ask your question.
